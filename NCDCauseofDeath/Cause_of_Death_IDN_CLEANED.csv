@@ -1,0 +1,131 @@
+Cause_of_death;;Type_Disease;Rate_per_100K
+Acute hepatitis A;;Communicable Disease;0.55
+Acute hepatitis B;;Communicable Disease;0.57
+Acute hepatitis C;;Communicable Disease;0.13
+Acute hepatitis E;;Communicable Disease;0.12
+African trypanosomiasis;;Communicable Disease;0.0
+Alcohol use disorders;;Non Communicable Disease;0.06
+Alzheimer disease and other dementias;;Non Communicable Disease;10.28
+Anxiety disorders;;Non Communicable Disease;0.0
+Appendicitis;;Non Communicable Disease;0.37
+Ascariasis;;Communicable Disease;0.02
+Asthma;;Communicable Disease;9.04
+Autism and Asperger syndrome;;Non Communicable Disease;0.0
+Back and neck pain;;Non Communicable Disease;0.0
+Benign prostatic hyperplasia;;Non Communicable Disease;0.0
+Bipolar disorder;;Non Communicable Disease;0.0
+Birth asphyxia and birth trauma;;Non Communicable Disease;3.54
+Bladder cancer;;Non Communicable Disease;1.29
+Brain and nervous system cancers;;Non Communicable Disease;1.92
+Breast cancer;;Non Communicable Disease;8.46
+COVID-19;;Communicable Disease;210.72
+Cataracts;;Non Communicable Disease;0.0
+Cervix uteri cancer;;Non Communicable Disease;7.73
+Chagas disease;;Communicable Disease;0.0
+Childhood behavioural disorders;;Non Communicable Disease;0.0
+Chlamydia;;Communicable Disease;0.0
+Chronic obstructive pulmonary disease;;Non Communicable Disease;28.77
+Cirrhosis of the liver;;Non Communicable Disease;31.22
+Collective violence and legal intervention;;Non Communicable Disease;0.04
+Colon and rectum cancers;;Non Communicable Disease;6.85
+Congenital anomalies;;Non Communicable Disease;8.23
+Corpus uteri cancer;;Non Communicable Disease;0.96
+Cysticercosis;;Communicable Disease;0.0
+Dengue;;Communicable Disease;2.23
+Depressive disorders;;Non Communicable Disease;0.0
+Diabetes mellitus;;Non Communicable Disease;21.02
+Diarrhoeal diseases;;Communicable Disease;17.56
+Diphtheria;;Communicable Disease;0.01
+Drowning;;Non Communicable Disease;2.13
+Drug use disorders;;Non Communicable Disease;0.13
+Eating disorders;;Non Communicable Disease;0.0
+Echinococcosis;;Communicable Disease;0.22
+Encephalitis;;Communicable Disease;0.58
+Epilepsy;;Non Communicable Disease;0.26
+Exposure to mechanical forces;;Non Communicable Disease;0.46
+Falls;;Non Communicable Disease;6.49
+Food-bourne trematodes;;Communicable Disease;0.0
+Gallbladder and biliary diseases;;Non Communicable Disease;2.62
+Gallbladder and biliary tract cancer;;Non Communicable Disease;0.17
+Gastritis and duodenitis;;Non Communicable Disease;0.02
+Genital herpes;;Communicable Disease;0.0
+Glaucoma;;Non Communicable Disease;0.0
+Gonorrhoea;;Communicable Disease;0.0
+Gout;;Non Communicable Disease;0.0
+Gynecological diseases;;Non Communicable Disease;0.17
+HIV/AIDS;;Communicable Disease;8.59
+Hookworm disease;;Communicable Disease;0.0
+Hypertensive heart disease;;Non Communicable Disease;20.87
+Idiopathic intellectual disability;;Non Communicable Disease;0.0
+Infertility;;Non Communicable Disease;0.0
+Inflammatory bowel disease;;Non Communicable Disease;0.23
+Interpersonal violence;;Non Communicable Disease;4.15
+Iodine deficiency;;Non Communicable Disease;0.0
+Iron-deficiency anaemia;;Non Communicable Disease;0.0
+Ischaemic heart disease;;Non Communicable Disease;90.44
+Kidney cancer;;Non Communicable Disease;0.53
+Kidney diseases;;Non Communicable Disease;15.84
+Larynx cancer;;Non Communicable Disease;0.84
+Leishmaniasis;;Communicable Disease;0.0
+Leprosy;;Communicable Disease;0.0
+Leukaemia;;Non Communicable Disease;3.98
+Liver cancer;;Non Communicable Disease;8.03
+Lower respiratory infections;;Communicable Disease;12.84
+Lymphatic filariasis;;Communicable Disease;0.0
+Macular degeneration;;Non Communicable Disease;0.0
+Malaria;;Communicable Disease;0.51
+Maternal conditions;;Non Communicable Disease;2.67
+Measles;;Communicable Disease;0.69
+Melanoma and other skin cancers;;Non Communicable Disease;1.12
+Meningitis;;Communicable Disease;1.2
+Mesothelioma;;Non Communicable Disease;0.08
+Migraine;;Non Communicable Disease;0.0
+Mouth and oropharynx cancers;;Non Communicable Disease;6.74
+Multiple sclerosis;;Non Communicable Disease;0.01
+Natural disasters;;Non Communicable Disease;0.18
+Neonatal sepsis and infections;;Communicable Disease;1.11
+Non-migraine headache;;Non Communicable Disease;0.0
+Oesophagus cancer;;Non Communicable Disease;0.48
+Onchocerciasis;;Communicable Disease;0.0
+Oral conditions;;Non Communicable Disease;0.0
+Osteoarthritis;;Non Communicable Disease;0.0
+Other hearing loss;;Non Communicable Disease;0.0
+Other vision loss;;Non Communicable Disease;0.0
+Otitis media;;Communicable Disease;0.0
+Ovary cancer;;Non Communicable Disease;3.57
+Pancreas cancer;;Non Communicable Disease;2.12
+Pancreatitis;;Non Communicable Disease;1.36
+Paralytic ileus and intestinal obstruction;;Non Communicable Disease;5.29
+Parkinson disease;;Non Communicable Disease;3.11
+Peptic ulcer disease;;Non Communicable Disease;0.18
+Poisonings;;Non Communicable Disease;0.23
+Preterm birth complications;;Non Communicable Disease;8.09
+Prostate cancer;;Non Communicable Disease;1.77
+Protein-energy malnutrition;;Non Communicable Disease;6.53
+Rabies;;Non Communicable Disease;0.15
+Rheumatic heart disease;;Non Communicable Disease;0.99
+Rheumatoid arthritis;;Non Communicable Disease;0.08
+Road injury;;Non Communicable Disease;11.31
+Schistosomiasis;;Communicable Disease;0.0
+Schizophrenia;;Non Communicable Disease;0.0
+Self-harm;;Non Communicable Disease;1.21
+Sickle cell disorders and trait;;Non Communicable Disease;0.0
+Skin diseases;;Non Communicable Disease;1.47
+Stomach cancer;;Non Communicable Disease;1.17
+Stroke;;Non Communicable Disease;140.8
+Sudden infant death syndrome;;Non Communicable Disease;0.4
+Syphilis;;Communicable Disease;0.71
+Testicular cancer;;Non Communicable Disease;0.13
+Tetanus;;Communicable Disease;0.57
+Thalassaemias;;Non Communicable Disease;0.36
+Thyroid cancer;;Non Communicable Disease;0.83
+Trachoma;;Communicable Disease;0.0
+Trichomoniasis;;Communicable Disease;0.0
+Trichuriasis;;Communicable Disease;0.0
+Tuberculosis;;Communicable Disease;48.94
+Uncorrected refractive errors;;Non Communicable Disease;0.0
+Upper respiratory infections;;Communicable Disease;0.02
+Urolithiasis;;Non Communicable Disease;0.2
+Vitamin A deficiency;;Non Communicable Disease;0.0
+Whooping cough;;Communicable Disease;0.05
+Yellow fever;;Communicable Disease;0.0
